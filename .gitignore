@@ -1,8 +1,0 @@
-# Ignore everything
-*
-
-# Re-include specific directories and their contents
-!Program.cs
-
-# Re-include the .gitignore file itself
-!.gitignore
